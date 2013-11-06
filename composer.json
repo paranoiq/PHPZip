@@ -1,0 +1,15 @@
+{
+	"name": "paranoiq/php-zip",
+	"description": "A pair of PHP classes to generate zip files",
+	"license": "LGPL-2.1",
+	"authors": [
+		{
+			"name": "A. Grandt",
+			"email": "php@grandt.com"
+		}
+	],
+
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
